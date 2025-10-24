@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1a6631b929f962107f44b0a9c07d19a7" sys_domain="global" table="x_snc_safety_issue" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 15:46:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d26631b929f962107f44b0a9c07d19e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_safety_issue" name="x_snc_safety_issue" sys_domain="global" view="Default view">1a6631b929f962107f44b0a9c07d19a7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_safety_issue" sys_domain="global" view="Default view">ad8a4c11e46611107f448c3c6eac0812</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 15:46:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_safety_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-29 15:46:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a6631b929f962107f44b0a9c07d19a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_safety_issue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1a6631b929f962107f44b0a9c07d19a7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-29 15:46:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
